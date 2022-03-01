@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'WebAppStr-hymxgq'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2058E7A3D24A418B99AE1CF1DDD742E8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CE317B7523ED4352A354113903471EA0 }}
           package: .
